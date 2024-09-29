@@ -1,6 +1,6 @@
 #This will run all other files
 
-print("<--------------ARITHMETIC-SUITE--------------->")
+print("<---------------------ARITHMETIC-SUITE------------------------->")
 
 print("Enter your needed operation:  ")
 print("Press 1 for Finding Area of Triangle.")
