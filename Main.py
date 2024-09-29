@@ -1,13 +1,5 @@
 #This will run all other files
 
-def main():
-    print("Main.py has stopped.")
-    # Your main logic here
-
-if __name__ == "__main__":
-    main()
-
-
 print("<--------------ARITHMETIC-SUITE--------------->")
 
 print("Enter your needed operation:  ")
