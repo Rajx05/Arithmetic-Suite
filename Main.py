@@ -2,12 +2,12 @@
 
 print("<---------------------ARITHMETIC-SUITE------------------------->")
 
-print("Enter your needed operation:  ")
-print("Press 1 for Finding Area of Triangle.")
-print("Press 2 for Finding Area of Rectangle.")
-print("Press 3 for Calculator.")
-print("Press 4 for Finding Area of Circle.")
-print("Press 5 for Using Arithmetic Progression tools.")
+print("What would you like to do? ")
+print("Enter 1 for Finding Area of Triangle.")
+print("Enter 2 for Finding Area of Rectangle.")
+print("Enter 3 for Calculator.")
+print("Enter 4 for Finding Area of Circle.")
+print("Enter 5 for Using Arithmetic Progression tools.")
 
 command = input("Enter Desired Mode of operation: ")
 
