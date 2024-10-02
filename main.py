@@ -5,9 +5,9 @@ print("<---------------------ARITHMETIC-SUITE------------------------->")
 print("What would you like to do? ")
 print("Enter 1 for Finding Area of Triangle.")
 print("Enter 2 for Finding Area of Rectangle.")
-print("Enter 3 for Calculator.")
+print("Enter 3 for Using Calculator")
 print("Enter 4 for Finding Area of Circle.")
-print("Enter 5 for Using Arithmetic Progression tools.")
+print("Enter 5 for Using Arithmetic Progression Tools.")
 
 command = input("Enter Desired Mode of operation: ")
 
@@ -22,4 +22,4 @@ elif command == "4":
 elif command == "5":
     import ap
 else:
-    print("The Type of operator you want is not available right now.")
+    print("The Type of operator you want is not available right now or is yet to be implemented.")
