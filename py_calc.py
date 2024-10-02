@@ -3,6 +3,11 @@
 
 print("<---------------CALCULATOR----------------->")
 
+print("Enter '+' for Addition")
+print("Enter '-' for Subtraction")   
+print("Enter '/' for Division")
+print("Enter '*' for Multiplication")
+
 operator = input("enter your operator either '+ - * /': ")
 
 num1 = int(input("Enter Number one: "))
