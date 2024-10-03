@@ -1,8 +1,7 @@
 
 # Arithmetic-Suite
 
-- A python Script to calculate and Perform Arithmetic
-   Operations.
+### A Python Script to calculate and Perform Arithmetic Operations with ease.
 
 ## Features
 
@@ -42,7 +41,7 @@
 
 - ~~Compile it into an exe so it can run without interpreter(better compatibility)~~ (see latest releases.)
 
-- Add a Module to find out Simple and Compound Interest.
+-  Add a Module to find out Simple and Compound Interest.
 
 - Add more to-do's.
 
