@@ -127,7 +127,7 @@ elif command == "5":
 
 elif command == "6":
 
-    print("<------------SIMPLE-INTEREST-------------->")
+    print("<------------SIMPLE-INTEREST-------------->") #Simple Interest Module
 
     p = int(input("Enter Principle: "))
     r = int(input("Enter Annual Interest Rate: "))
