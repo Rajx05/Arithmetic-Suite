@@ -8,6 +8,7 @@ print("Enter 2 for Finding Area of Rectangle.")
 print("Enter 3 for Using Calculator")
 print("Enter 4 for Finding Area of Circle.")
 print("Enter 5 for Using Arithmetic Progression Tools.")
+print("Enter 6 for Finding Simple Interest.")
 
 command = input("Enter Desired Mode of operation: ")
 
@@ -21,5 +22,7 @@ elif command == "4":
     import area_circle
 elif command == "5":
     import ap
+elif command == "6":
+    import si
 else:
     print("The Type of operator you want is not available right now or is yet to be implemented.")

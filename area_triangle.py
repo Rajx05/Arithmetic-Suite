@@ -1,4 +1,4 @@
-#We will find the area of triangle
+#We will find the area of triangle.
 
 print("<--------------AREA-OF-TRIANGLE----------------->")
 

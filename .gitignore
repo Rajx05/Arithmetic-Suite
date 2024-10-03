@@ -1,2 +1,4 @@
 __pycache__/
 ap_resources/__pycache__
+compiled/build
+compiled/as.spec
