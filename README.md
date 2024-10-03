@@ -3,9 +3,6 @@
 
 #### A Python Script to perform Arithmetic and Mathemetical Operations with ease.
 
-###### Developement is on Hold: Well i am learning more python and plus i have some issues with my studies...i probabily start working on this project again starting april of 2025 after my exams.I'll try to imporve as much as i can but i cannot promise how much ill be able to maintain this project.Thank You.
- 
-
 ## Features:
 
 - Lets you perform Mathermatical calculations with ease.
