@@ -1,9 +1,9 @@
 
 # Arithmetic-Suite
 
-### A Python Script to calculate and Perform Arithmetic Operations with ease.
+#### A Python Script to perform Arithmetic and Mathemetical Operations with ease.
 
-## Features
+## Features:
 
 - Lets you perform Mathermatical calculations with ease.
 - Very lightweight tool(only 300kb,but the exe file is nearly 7 MB which is not much).
